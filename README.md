@@ -154,4 +154,4 @@ MIT — free to use, modify, and share.
 
 ---
 
-Made with 💜 by [Your Name] &nbsp;|&nbsp; Powered by Google Gemini AI
+Made with 💜 by Manasa Pillai &nbsp;|&nbsp; Powered by Google Gemini AI
